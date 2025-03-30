@@ -20,6 +20,105 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+/*my code*/
 .container-fluid{
   height: 75px;
+}
+.container-fluid{
+  background-color: #204164;
+}
+.container-fluid a,
+.container-fluid ul li,
+.container-fluid p {
+  color: white; 
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.container-fluid a:hover,
+.container-fluid ul li:hover,
+.container-fluid p:hover {
+  color: #4CAF4F;
+}
+.container-fluid img{
+  width: 55px;
+  height: 25px;
+}
+.container-fluid ul li{
+ word-spacing: 70px;
+ justify-content: center;
+ margin-top: 10px;
+}
+.container-fluid button{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: #ffffff;
+  background-color: #4CAF4F;
+  width: 170px;
+  height: 50px;
+  border-radius: 10px;
+  transition: width 3s ease,  background-color 3s ease ;
+}
+.container-fluid button:hover{
+  width: 250px;
+  background-color: rgb(75, 131, 103);
+}
+.container-fluid a{
+  text-decoration: none;
+}
+li{
+  list-style: none;
+}
+footer ,.footer1 {
+  background-color: #204164; 
+  color: white; 
+  margin-top: 50px;
+}
+footer img{
+  width: 55px;
+  height: 25px;
+}
+footer p{
+  width: 244px;
+  height: 20px;
+}
+footer a,
+footer h6,
+footer ul li,
+footer p {
+  justify-content: center;
+  color: white; 
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+footer a:hover,
+footer ul li:hover,
+footer p :hover{
+  color: #4CAF4F; 
+}
+footer ul li{
+  padding: 10px;
+  width: 150px;
+}
+footer .form-control{
+  width: 250px !important;
+  justify-content: center;
+  background-color: transparent;  
+  border: 5px solid #4CAF4F;  
+  font-family: Poppins;
+font-weight: 400;
+font-size: 20px;
+line-height: 100%;
+letter-spacing: -0.2px;
+  height: 66.91px;
+  border-radius: 20px;
+  color: #ffffff;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+footer input::placeholder{
+  color: #ffffff !important;
+}
+.socialmediaicon{
+  width: 50px;
+  height: 50px;
+  padding: 10px;
+  word-spacing: 10px;
 }

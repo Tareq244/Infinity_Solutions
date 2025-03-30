@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Infinity-Solutions.bundle.scp.css",
-      "PackagePath": "staticwebassets\\Infinity-Solutions.4r7rdjs54c.bundle.scp.css"
+      "PackagePath": "staticwebassets\\Infinity-Solutions.9kvu6u2ert.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\css\\site.css",
@@ -13,8 +13,32 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\Right.svg",
+      "PackagePath": "staticwebassets\\images\\Right.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\X.png",
+      "PackagePath": "staticwebassets\\images\\X.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\Youtube.png",
+      "PackagePath": "staticwebassets\\images\\Youtube.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\insta.svg",
+      "PackagePath": "staticwebassets\\images\\insta.svg"
+    },
+    {
       "Id": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\logo.svg",
       "PackagePath": "staticwebassets\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\pana.svg",
+      "PackagePath": "staticwebassets\\images\\pana.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\send.svg",
+      "PackagePath": "staticwebassets\\images\\send.svg"
     },
     {
       "Id": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\js\\site.js",

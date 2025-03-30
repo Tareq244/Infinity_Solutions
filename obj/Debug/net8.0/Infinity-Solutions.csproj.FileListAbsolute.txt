@@ -31,3 +31,4 @@ C:\Users\User\Desktop\Free lancer\Infinity_WebSite\Infinity-Solutions\obj\Debug\
 C:\Users\User\Desktop\Free lancer\Infinity_WebSite\Infinity-Solutions\obj\Debug\net8.0\Infinity-Solutions.pdb
 C:\Users\User\Desktop\Free lancer\Infinity_WebSite\Infinity-Solutions\obj\Debug\net8.0\Infinity-Solutions.genruntimeconfig.cache
 C:\Users\User\Desktop\Free lancer\Infinity_WebSite\Infinity-Solutions\obj\Debug\net8.0\ref\Infinity-Solutions.dll
+C:\Users\User\Desktop\Free lancer\Infinity_WebSite\Infinity-Solutions\obj\Debug\net8.0\Infinity-Solutions.sourcelink.json
