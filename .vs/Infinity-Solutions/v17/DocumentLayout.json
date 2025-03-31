@@ -1,9 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\",
+  "WorkspaceRootPath": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{716B65D0-C8E2-4B47-A1C3-2D0D8A46AF09}|Infinity-Solutions.csproj|c:\\users\\user\\desktop\\free lancer\\infinity_website\\infinity-solutions\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{716B65D0-C8E2-4B47-A1C3-2D0D8A46AF09}|Infinity-Solutions.csproj|c:\\users\\ahmad\\onedrive\\desktop\\infinity_sol\\views\\home\\security_page.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{716B65D0-C8E2-4B47-A1C3-2D0D8A46AF09}|Infinity-Solutions.csproj|solutionrelative:views\\home\\security_page.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{716B65D0-C8E2-4B47-A1C3-2D0D8A46AF09}|Infinity-Solutions.csproj|c:\\users\\ahmad\\onedrive\\desktop\\infinity_sol\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{716B65D0-C8E2-4B47-A1C3-2D0D8A46AF09}|Infinity-Solutions.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{716B65D0-C8E2-4B47-A1C3-2D0D8A46AF09}|Infinity-Solutions.csproj|c:\\users\\ahmad\\onedrive\\desktop\\infinity_sol\\views\\home\\website_page.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{716B65D0-C8E2-4B47-A1C3-2D0D8A46AF09}|Infinity-Solutions.csproj|solutionrelative:views\\home\\website_page.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{716B65D0-C8E2-4B47-A1C3-2D0D8A46AF09}|Infinity-Solutions.csproj|c:\\users\\ahmad\\onedrive\\desktop\\infinity_sol\\views\\home\\flutter_page.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{716B65D0-C8E2-4B47-A1C3-2D0D8A46AF09}|Infinity-Solutions.csproj|solutionrelative:views\\home\\flutter_page.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{716B65D0-C8E2-4B47-A1C3-2D0D8A46AF09}|Infinity-Solutions.csproj|c:\\users\\ahmad\\onedrive\\desktop\\infinity_sol\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{716B65D0-C8E2-4B47-A1C3-2D0D8A46AF09}|Infinity-Solutions.csproj|solutionrelative:views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{716B65D0-C8E2-4B47-A1C3-2D0D8A46AF09}|Infinity-Solutions.csproj|c:\\users\\ahmad\\onedrive\\desktop\\infinity_sol\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{716B65D0-C8E2-4B47-A1C3-2D0D8A46AF09}|Infinity-Solutions.csproj|solutionrelative:views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{716B65D0-C8E2-4B47-A1C3-2D0D8A46AF09}|Infinity-Solutions.csproj|c:\\users\\ahmad\\onedrive\\desktop\\infinity_sol\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{716B65D0-C8E2-4B47-A1C3-2D0D8A46AF09}|Infinity-Solutions.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{716B65D0-C8E2-4B47-A1C3-2D0D8A46AF09}|Infinity-Solutions.csproj|c:\\users\\ahmad\\onedrive\\desktop\\infinity_sol\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{716B65D0-C8E2-4B47-A1C3-2D0D8A46AF09}|Infinity-Solutions.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -23,15 +51,107 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Security_page.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\Views\\Home\\Security_page.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Security_page.cshtml",
+              "ToolTip": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\Views\\Home\\Security_page.cshtml",
+              "RelativeToolTip": "Views\\Home\\Security_page.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T12:28:12.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Website_page.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\Views\\Home\\Website_page.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Website_page.cshtml",
+              "ToolTip": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\Views\\Home\\Website_page.cshtml",
+              "RelativeToolTip": "Views\\Home\\Website_page.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T12:27:54.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Flutter_page.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\Views\\Home\\Flutter_page.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Flutter_page.cshtml",
+              "ToolTip": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\Views\\Home\\Flutter_page.cshtml",
+              "RelativeToolTip": "Views\\Home\\Flutter_page.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T12:27:34.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\Views\\Home\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\Views\\Home\\Register.cshtml",
+              "RelativeToolTip": "Views\\Home\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T18:53:29.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T18:03:17.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-30T17:29:32.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAkwCoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T17:25:18.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-29T19:01:07.21Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-29T19:01:07.21Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
