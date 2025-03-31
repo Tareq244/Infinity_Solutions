@@ -32,6 +32,18 @@ public class HomeController : Controller
     {
         return View();
     }
+    public IActionResult Flutter_page()
+    {
+        return View();
+    }
+    public IActionResult Website_page()
+    {
+        return View();
+    }
+    public IActionResult Security_page()
+    {
+        return View();
+    }
 
 
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
