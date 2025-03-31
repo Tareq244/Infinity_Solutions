@@ -25,8 +25,20 @@
       "PackagePath": "staticwebassets\\images\\Youtube.png"
     },
     {
+      "Id": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\apple-icon.svg",
+      "PackagePath": "staticwebassets\\images\\apple-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\google-icon.svg",
+      "PackagePath": "staticwebassets\\images\\google-icon.svg"
+    },
+    {
       "Id": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\insta.svg",
       "PackagePath": "staticwebassets\\images\\insta.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\logo-bg-login.jpeg",
+      "PackagePath": "staticwebassets\\images\\logo-bg-login.jpeg"
     },
     {
       "Id": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\logo.svg",

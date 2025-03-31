@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "2vEgWNyCjGng55UWAUuJF/KYZoJxwtYArlNJzNOqBhs=",
+  "Hash": "xO3cxJ8s/d27KtpHO16uVRB1wa82QIs/pPoX/m2oC3I=",
   "Source": "Infinity-Solutions",
   "BasePath": "_content/Infinity-Solutions",
   "Mode": "Default",
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "hdabga3o9u",
-      "Integrity": "RbEwbMjj5N854hmaPV8spivOUwJ2kYKfPJ4Ot8jWyLs=",
+      "Fingerprint": "1du4tomqhs",
+      "Integrity": "SxBnLfBU+MaMdBDWCnxtKd5tGXDDpyUxK6plWcvfh7E=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -101,6 +101,48 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\apple-icon.svg",
+      "SourceId": "Infinity-Solutions",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\",
+      "BasePath": "_content/Infinity-Solutions",
+      "RelativePath": "images/apple-icon#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "icim36j0dd",
+      "Integrity": "ng4kNlXLYA2Psusotw7/LL7PtDbTCU9ex66Ql5uzdA0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\apple-icon.svg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\google-icon.svg",
+      "SourceId": "Infinity-Solutions",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\",
+      "BasePath": "_content/Infinity-Solutions",
+      "RelativePath": "images/google-icon#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "54n8v5cr3s",
+      "Integrity": "+6UBzYmpJcralv8P+xvWfpZp28QiWTF417rqtcBiWUw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\google-icon.svg"
+    },
+    {
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\insta.svg",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -120,6 +162,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\insta.svg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\logo-bg-login.jpeg",
+      "SourceId": "Infinity-Solutions",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\",
+      "BasePath": "_content/Infinity-Solutions",
+      "RelativePath": "images/logo-bg-login#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6ndq46p7xa",
+      "Integrity": "boyhMXADRYGhCnKe+DVPWgNGzYr5fU79VRoMslRcpf4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\logo-bg-login.jpeg"
     },
     {
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\logo.svg",
@@ -1468,6 +1531,51 @@
   ],
   "Endpoints": [
     {
+      "Route": "css/site.1du4tomqhs.css",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4870"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SxBnLfBU+MaMdBDWCnxtKd5tGXDDpyUxK6plWcvfh7E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 23:25:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1du4tomqhs"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SxBnLfBU+MaMdBDWCnxtKd5tGXDDpyUxK6plWcvfh7E="
+        }
+      ]
+    },
+    {
       "Route": "css/site.css",
       "AssetFile": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\css\\site.css",
       "Selectors": [],
@@ -1478,7 +1586,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2394"
+          "Value": "4870"
         },
         {
           "Name": "Content-Type",
@@ -1486,11 +1594,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"RbEwbMjj5N854hmaPV8spivOUwJ2kYKfPJ4Ot8jWyLs=\""
+          "Value": "\"SxBnLfBU+MaMdBDWCnxtKd5tGXDDpyUxK6plWcvfh7E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 03:16:41 GMT"
+          "Value": "Sun, 30 Mar 2025 23:25:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1500,52 +1608,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-RbEwbMjj5N854hmaPV8spivOUwJ2kYKfPJ4Ot8jWyLs="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.hdabga3o9u.css",
-      "AssetFile": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2394"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"RbEwbMjj5N854hmaPV8spivOUwJ2kYKfPJ4Ot8jWyLs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 03:16:41 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "hdabga3o9u"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-RbEwbMjj5N854hmaPV8spivOUwJ2kYKfPJ4Ot8jWyLs="
+          "Value": "sha256-SxBnLfBU+MaMdBDWCnxtKd5tGXDDpyUxK6plWcvfh7E="
         }
       ]
     },
@@ -1632,6 +1695,170 @@
       ]
     },
     {
+      "Route": "images/apple-icon.icim36j0dd.svg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\apple-icon.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3820"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ng4kNlXLYA2Psusotw7/LL7PtDbTCU9ex66Ql5uzdA0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 23:08:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "icim36j0dd"
+        },
+        {
+          "Name": "label",
+          "Value": "images/apple-icon.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ng4kNlXLYA2Psusotw7/LL7PtDbTCU9ex66Ql5uzdA0="
+        }
+      ]
+    },
+    {
+      "Route": "images/apple-icon.svg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\apple-icon.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3820"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ng4kNlXLYA2Psusotw7/LL7PtDbTCU9ex66Ql5uzdA0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 23:08:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ng4kNlXLYA2Psusotw7/LL7PtDbTCU9ex66Ql5uzdA0="
+        }
+      ]
+    },
+    {
+      "Route": "images/google-icon.54n8v5cr3s.svg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\google-icon.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "977"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+6UBzYmpJcralv8P+xvWfpZp28QiWTF417rqtcBiWUw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 23:08:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "54n8v5cr3s"
+        },
+        {
+          "Name": "label",
+          "Value": "images/google-icon.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+6UBzYmpJcralv8P+xvWfpZp28QiWTF417rqtcBiWUw="
+        }
+      ]
+    },
+    {
+      "Route": "images/google-icon.svg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\google-icon.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "977"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+6UBzYmpJcralv8P+xvWfpZp28QiWTF417rqtcBiWUw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 23:08:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+6UBzYmpJcralv8P+xvWfpZp28QiWTF417rqtcBiWUw="
+        }
+      ]
+    },
+    {
       "Route": "images/insta.svg",
       "AssetFile": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\insta.svg",
       "Selectors": [],
@@ -1710,6 +1937,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-FO91glNVWCAGIyFti+7KD3+sWPDjoa1V13qyR/GEOsQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/logo-bg-login.6ndq46p7xa.jpeg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\logo-bg-login.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "81106"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"boyhMXADRYGhCnKe+DVPWgNGzYr5fU79VRoMslRcpf4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 23:19:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6ndq46p7xa"
+        },
+        {
+          "Name": "label",
+          "Value": "images/logo-bg-login.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-boyhMXADRYGhCnKe+DVPWgNGzYr5fU79VRoMslRcpf4="
+        }
+      ]
+    },
+    {
+      "Route": "images/logo-bg-login.jpeg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\logo-bg-login.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "81106"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"boyhMXADRYGhCnKe+DVPWgNGzYr5fU79VRoMslRcpf4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 23:19:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-boyhMXADRYGhCnKe+DVPWgNGzYr5fU79VRoMslRcpf4="
         }
       ]
     },
