@@ -25,6 +25,7 @@
       "PackagePath": "staticwebassets\\images\\Youtube.png"
     },
     {
+<<<<<<< HEAD
       "Id": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\images\\apple-icon.svg",
       "PackagePath": "staticwebassets\\images\\apple-icon.svg"
     },
@@ -42,6 +43,25 @@
     },
     {
       "Id": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\images\\logo.svg",
+=======
+      "Id": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\apple-icon.svg",
+      "PackagePath": "staticwebassets\\images\\apple-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\google-icon.svg",
+      "PackagePath": "staticwebassets\\images\\google-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\insta.svg",
+      "PackagePath": "staticwebassets\\images\\insta.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\logo-bg-login.jpeg",
+      "PackagePath": "staticwebassets\\images\\logo-bg-login.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\logo.svg",
+>>>>>>> 2cc1977465832fc58bdcf0073936d1c423e1fa25
       "PackagePath": "staticwebassets\\images\\logo.svg"
     },
     {

@@ -1,22 +1,13 @@
 ﻿@{
-    ViewData["Title"] = "Register";
-    Layout = null;
+    ViewData["Title"] = "Home Page";
+    Layout=null;
 }
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-    <title>@ViewData["Title"]</title>
-    <link rel="stylesheet" href="~/css/site.css" />
-</head>
-<body class="login-page">
+<div class="login-page">
     <div class="login-container">
         <div class="login-form">
             <h1 class="login-title">Get Started Now</h1>
             
-            <form method="post">
+            
                 <div class="form-group">
                     <label>First Name</label>
                     <input type="text" class="form-control" placeholder="Enter your first name" required />
@@ -63,12 +54,11 @@
                 <div class="signup-link">
                     <p>Already have an account? <a href="/Account/Login">Sign In</a></p>
                 </div>
-            </form>
+            </>
         </div>
     </div>
     
     <div class="image-container">
         <img src="~/images/logo-bg-login.jpeg" alt="Register Background" />
     </div>
-</body>
-</html>
+</div>

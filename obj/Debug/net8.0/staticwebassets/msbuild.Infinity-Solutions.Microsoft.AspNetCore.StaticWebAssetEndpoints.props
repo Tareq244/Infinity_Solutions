@@ -1,16 +1,16 @@
 ﻿<Project>
   <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/Infinity-Solutions/css/site.1du4tomqhs.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"1du4tomqhs"},{"Name":"integrity","Value":"sha256-SxBnLfBU\u002BMaMdBDWCnxtKd5tGXDDpyUxK6plWcvfh7E="},{"Name":"label","Value":"_content/Infinity-Solutions/css/site.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4870"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022SxBnLfBU\u002BMaMdBDWCnxtKd5tGXDDpyUxK6plWcvfh7E=\u0022"},{"Name":"Last-Modified","Value":"Sun, 30 Mar 2025 23:25:54 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Infinity-Solutions/css/site.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-RbEwbMjj5N854hmaPV8spivOUwJ2kYKfPJ4Ot8jWyLs="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2394"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022RbEwbMjj5N854hmaPV8spivOUwJ2kYKfPJ4Ot8jWyLs=\u0022"},{"Name":"Last-Modified","Value":"Sun, 30 Mar 2025 03:16:41 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Infinity-Solutions/css/site.hdabga3o9u.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"hdabga3o9u"},{"Name":"integrity","Value":"sha256-RbEwbMjj5N854hmaPV8spivOUwJ2kYKfPJ4Ot8jWyLs="},{"Name":"label","Value":"_content/Infinity-Solutions/css/site.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2394"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022RbEwbMjj5N854hmaPV8spivOUwJ2kYKfPJ4Ot8jWyLs=\u0022"},{"Name":"Last-Modified","Value":"Sun, 30 Mar 2025 03:16:41 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-SxBnLfBU\u002BMaMdBDWCnxtKd5tGXDDpyUxK6plWcvfh7E="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4870"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022SxBnLfBU\u002BMaMdBDWCnxtKd5tGXDDpyUxK6plWcvfh7E=\u0022"},{"Name":"Last-Modified","Value":"Sun, 30 Mar 2025 23:25:54 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Infinity-Solutions/favicon.61n19gt1b8.ico">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</AssetFile>
@@ -24,6 +24,30 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Jtxf9L\u002B5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"5430"},{"Name":"Content-Type","Value":"image/x-icon"},{"Name":"ETag","Value":"\u0022Jtxf9L\u002B5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\u0022"},{"Name":"Last-Modified","Value":"Sat, 29 Mar 2025 19:00:42 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Infinity-Solutions/images/apple-icon.icim36j0dd.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\apple-icon.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"icim36j0dd"},{"Name":"integrity","Value":"sha256-ng4kNlXLYA2Psusotw7/LL7PtDbTCU9ex66Ql5uzdA0="},{"Name":"label","Value":"_content/Infinity-Solutions/images/apple-icon.svg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3820"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022ng4kNlXLYA2Psusotw7/LL7PtDbTCU9ex66Ql5uzdA0=\u0022"},{"Name":"Last-Modified","Value":"Sun, 30 Mar 2025 23:08:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Infinity-Solutions/images/apple-icon.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\apple-icon.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ng4kNlXLYA2Psusotw7/LL7PtDbTCU9ex66Ql5uzdA0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"3820"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022ng4kNlXLYA2Psusotw7/LL7PtDbTCU9ex66Ql5uzdA0=\u0022"},{"Name":"Last-Modified","Value":"Sun, 30 Mar 2025 23:08:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Infinity-Solutions/images/google-icon.54n8v5cr3s.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\google-icon.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"54n8v5cr3s"},{"Name":"integrity","Value":"sha256-\u002B6UBzYmpJcralv8P\u002BxvWfpZp28QiWTF417rqtcBiWUw="},{"Name":"label","Value":"_content/Infinity-Solutions/images/google-icon.svg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"977"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022\u002B6UBzYmpJcralv8P\u002BxvWfpZp28QiWTF417rqtcBiWUw=\u0022"},{"Name":"Last-Modified","Value":"Sun, 30 Mar 2025 23:08:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Infinity-Solutions/images/google-icon.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\google-icon.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-\u002B6UBzYmpJcralv8P\u002BxvWfpZp28QiWTF417rqtcBiWUw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"977"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022\u002B6UBzYmpJcralv8P\u002BxvWfpZp28QiWTF417rqtcBiWUw=\u0022"},{"Name":"Last-Modified","Value":"Sun, 30 Mar 2025 23:08:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Infinity-Solutions/images/insta.svg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\insta.svg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -35,6 +59,18 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wpfa1wyp8t"},{"Name":"integrity","Value":"sha256-FO91glNVWCAGIyFti\u002B7KD3\u002BsWPDjoa1V13qyR/GEOsQ="},{"Name":"label","Value":"_content/Infinity-Solutions/images/insta.svg"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3460"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022FO91glNVWCAGIyFti\u002B7KD3\u002BsWPDjoa1V13qyR/GEOsQ=\u0022"},{"Name":"Last-Modified","Value":"Sat, 29 Mar 2025 22:05:40 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Infinity-Solutions/images/logo-bg-login.6ndq46p7xa.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\logo-bg-login.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6ndq46p7xa"},{"Name":"integrity","Value":"sha256-boyhMXADRYGhCnKe\u002BDVPWgNGzYr5fU79VRoMslRcpf4="},{"Name":"label","Value":"_content/Infinity-Solutions/images/logo-bg-login.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"81106"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022boyhMXADRYGhCnKe\u002BDVPWgNGzYr5fU79VRoMslRcpf4=\u0022"},{"Name":"Last-Modified","Value":"Sun, 30 Mar 2025 23:19:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Infinity-Solutions/images/logo-bg-login.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\logo-bg-login.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-boyhMXADRYGhCnKe\u002BDVPWgNGzYr5fU79VRoMslRcpf4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"81106"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022boyhMXADRYGhCnKe\u002BDVPWgNGzYr5fU79VRoMslRcpf4=\u0022"},{"Name":"Last-Modified","Value":"Sun, 30 Mar 2025 23:19:56 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Infinity-Solutions/images/logo.693f00g4dq.svg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\logo.svg'))</AssetFile>
