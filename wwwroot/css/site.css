@@ -22,33 +22,33 @@ body {
 }
 
 /*my code*/
-.container-fluid{
+.nav11{
   height: 75px;
 }
-.container-fluid{
+.nav11{
   background-color: #204164;
 }
-.container-fluid a,
-.container-fluid ul li,
-.container-fluid p {
+.nav11 a,
+.nav11 ul li,
+.nav11 p {
   color: white; 
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-.container-fluid a:hover,
-.container-fluid ul li:hover,
-.container-fluid p:hover {
+.nav11 a:hover,
+.nav11 ul li:hover,
+.nav11 p:hover {
   color: #4CAF4F;
 }
-.container-fluid img{
+.nav11 img{
   width: 55px;
   height: 25px;
 }
-.container-fluid ul li{
+.nav11 ul li{
  word-spacing: 70px;
  justify-content: center;
  margin-top: 10px;
 }
-.container-fluid button{
+.nav11 button{
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   color: #ffffff;
   background-color: #4CAF4F;
@@ -57,11 +57,11 @@ body {
   border-radius: 10px;
   transition: width 3s ease,  background-color 3s ease ;
 }
-.container-fluid button:hover{
+.nav11 button:hover{
   width: 250px;
   background-color: rgb(75, 131, 103);
 }
-.container-fluid a{
+.nav11 a{
   text-decoration: none;
 }
 li{
@@ -122,6 +122,81 @@ footer input::placeholder{
   padding: 10px;
   word-spacing: 10px;
 }
+
+.section1
+{
+justify-content: center;
+padding: 10px;
+margin-top: 50px;
+}
+.section2
+{
+  padding: 50px;
+  justify-items: center;
+  margin-top: 20px;
+}
+.link-icon-sec2{
+  justify-items: center;
+}
+.section2 img{
+  margin-top: 20px;
+  width: 50px;
+  margin-left: 50px;
+}
+.btn-sec2{
+  color: #ffffff;
+  background-color: #4CAF4F;
+  width: 170px;
+  height: 50px;
+  border-radius: 10px;
+  transition: width 3s ease,  background-color 3s ease ;
+}
+.btn-sec2:hover{
+  width: 250px;
+  background-color: rgb(75, 131, 103);
+}
+
+
+.section3{
+  padding: 10px;
+  margin-top: 100px;
+}
+.section3 {
+  padding: 50px 0;
+}
+.sec3 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.sec-input-3 {
+  flex: 1;
+  padding: 20px;
+}
+.right-side-sec3 {
+  background-image: url('/images/right-sec3.svg');
+  background-size: cover;
+  background-position: right;
+  margin-left: 20px;
+}
+.sec-input-3 h3 {
+  margin-bottom: 20px;
+}
+.sec-input-3 input {
+  display: block;
+  width: 350px;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 20px;
+  transition: width 2s ease,  background-color 2s ease ;
+}
+.sec-input-3 input:hover{
+  width: 450px;
+  background-color: rgb(75, 131, 103);
+}
+
+
 
 /*Ahmad*/
 * {
