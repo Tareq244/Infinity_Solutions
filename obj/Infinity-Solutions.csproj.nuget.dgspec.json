@@ -1,7 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
     "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\Infinity-Solutions.csproj": {}
   },
   "projects": {
@@ -13,29 +12,12 @@
         "projectPath": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\Infinity-Solutions.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\obj\\",
-=======
-    "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\Infinity-Solutions.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\Infinity-Solutions.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\Infinity-Solutions.csproj",
-        "projectName": "Infinity-Solutions",
-        "projectPath": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\Infinity-Solutions.csproj",
-        "packagesPath": "C:\\Users\\ahmad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\obj\\",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-<<<<<<< HEAD
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-          "C:\\Users\\ahmad\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,10 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-<<<<<<< HEAD
           "C:\\Program Files\\dotnet\\library-packs": {},
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -65,12 +44,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-<<<<<<< HEAD
         },
         "SdkAnalysisLevel": "9.0.200"
-=======
-        }
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       },
       "frameworks": {
         "net8.0": {
@@ -100,11 +75,7 @@
               "privateAssets": "all"
             }
           },
-<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
-=======
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.407/PortableRuntimeIdentifierGraph.json"
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
         }
       }
     }

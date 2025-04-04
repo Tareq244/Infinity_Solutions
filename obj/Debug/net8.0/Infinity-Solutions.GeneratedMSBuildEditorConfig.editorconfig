@@ -17,17 +17,12 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Infinity_Solutions
 build_property.RootNamespace = Infinity_Solutions
-<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\User\Desktop\Free lancer\Infinity_WebSite\Infinity-Solutions\
-=======
-build_property.ProjectDir = C:\Users\ahmad\OneDrive\Desktop\Infinity_sol\
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-<<<<<<< HEAD
 build_property.MSBuildProjectDirectory = C:\Users\User\Desktop\Free lancer\Infinity_WebSite\Infinity-Solutions
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
@@ -65,6 +60,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/User/Desktop/Free lancer/Infinity_WebSite/Infinity-Solutions/Views/Shared/Register-Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFJlZ2lzdGVyLUxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/User/Desktop/Free lancer/Infinity_WebSite/Infinity-Solutions/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -78,55 +77,5 @@ build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/User/Desktop/Free lancer/Infinity_WebSite/Infinity-Solutions/Views/Shared/_Layout.cshtml]
-=======
-build_property.MSBuildProjectDirectory = C:\Users\ahmad\OneDrive\Desktop\Infinity_sol
-build_property._RazorSourceGeneratorDebug = 
-
-[C:/Users/ahmad/OneDrive/Desktop/Infinity_sol/Views/Home/Flutter_page.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGbHV0dGVyX3BhZ2UuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ahmad/OneDrive/Desktop/Infinity_sol/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ahmad/OneDrive/Desktop/Infinity_sol/Views/Home/Login.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ahmad/OneDrive/Desktop/Infinity_sol/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ahmad/OneDrive/Desktop/Infinity_sol/Views/Home/Register.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdpc3Rlci5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ahmad/OneDrive/Desktop/Infinity_sol/Views/Home/Security_page.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZWN1cml0eV9wYWdlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ahmad/OneDrive/Desktop/Infinity_sol/Views/Home/Website_page.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxXZWJzaXRlX3BhZ2UuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ahmad/OneDrive/Desktop/Infinity_sol/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ahmad/OneDrive/Desktop/Infinity_sol/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ahmad/OneDrive/Desktop/Infinity_sol/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ahmad/OneDrive/Desktop/Infinity_sol/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ahmad/OneDrive/Desktop/Infinity_sol/Views/Shared/_Layout.cshtml]
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-b04tqomul3

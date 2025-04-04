@@ -1,10 +1,6 @@
 {
   "Version": 1,
-<<<<<<< HEAD
-  "Hash": "yMQ8ubSHOwEQvRRvo8zotikr1teM9Pl2xlIoClZJ0ts=",
-=======
-  "Hash": "7Xmu+dVBrnUOfKrbZdeuSrEoQHylG/faSbZTBUpHHlw=",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
+  "Hash": "4p33MNFwoIQLQNQbZTsz/rq8BId+TL/9PT9fB7B6t6s=",
   "Source": "Infinity-Solutions",
   "BasePath": "_content/Infinity-Solutions",
   "Mode": "Default",
@@ -14,32 +10,19 @@
     {
       "Name": "Infinity-Solutions\\wwwroot",
       "Source": "Infinity-Solutions",
-<<<<<<< HEAD
       "ContentRoot": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\",
-=======
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "BasePath": "_content/Infinity-Solutions",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Infinity-Solutions.styles.css",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Infinity-Solutions",
       "RelativePath": "Infinity-Solutions#[.{fingerprint}]?.styles.css",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Infinity-Solutions.styles.css",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "Infinity-Solutions.styles.css",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Primary",
@@ -48,9 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-<<<<<<< HEAD
-      "Fingerprint": "9kvu6u2ert",
-      "Integrity": "SZnT/TaNw/5h91zQ3X+H64vGIvYTqUEz5Hq16BXVjZo=",
+      "Fingerprint": "nxot8ay1q2",
+      "Integrity": "hQyjUR5UTAaMOgKud5QeYR/WWbFVVKJTMruAvKF9UUs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Infinity-Solutions.styles.css"
@@ -62,19 +44,6 @@
       "ContentRoot": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Infinity-Solutions",
       "RelativePath": "Infinity-Solutions#[.{fingerprint}]!.bundle.scp.css",
-=======
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Infinity-Solutions.styles.css"
-    },
-    {
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Infinity-Solutions.bundle.scp.css",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "Infinity-Solutions.bundle.scp.css",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Primary",
@@ -83,9 +52,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-<<<<<<< HEAD
-      "Fingerprint": "9kvu6u2ert",
-      "Integrity": "SZnT/TaNw/5h91zQ3X+H64vGIvYTqUEz5Hq16BXVjZo=",
+      "Fingerprint": "nxot8ay1q2",
+      "Integrity": "hQyjUR5UTAaMOgKud5QeYR/WWbFVVKJTMruAvKF9UUs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Infinity-Solutions.bundle.scp.css"
@@ -101,38 +69,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Infinity-Solutions.bundle.scp.css"
-    },
-    {
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\css\\site.css",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "css/site.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
-      "Fingerprint": "h5zpqdo17f",
-      "Integrity": "yxPea7hFWYnWy1AjoHk6afFgpnVGfJk31OvFDJ3Tgws=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
+      "Fingerprint": "mcht4zamew",
+      "Integrity": "6vKRZC6aAvWVeinPSt5lHs5xTmy5FmdS/sRZS+aGwCo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\favicon.ico",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -143,33 +90,101 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\favicon.ico",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "favicon.ico",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "61n19gt1b8",
       "Integrity": "Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-<<<<<<< HEAD
+      "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\add-user.png",
+      "SourceId": "Infinity-Solutions",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\",
+      "BasePath": "_content/Infinity-Solutions",
+      "RelativePath": "images/add-user#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oibsis4t4c",
+      "Integrity": "UOuYQlG8OjpC5KqC+tP654egWTo7AKfZLfzjaCcE9Kg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\add-user.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\Ahmad1.jpg",
+      "SourceId": "Infinity-Solutions",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\",
+      "BasePath": "_content/Infinity-Solutions",
+      "RelativePath": "images/Ahmad1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "55cdjbsk1z",
+      "Integrity": "R8LKGeawwH6U3jNdNGWaIkbrLErz4tDgv+Fl7F3GrWM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Ahmad1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\Ahmad2.jpg",
+      "SourceId": "Infinity-Solutions",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\",
+      "BasePath": "_content/Infinity-Solutions",
+      "RelativePath": "images/Ahmad2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "frtmpigg21",
+      "Integrity": "1X5kxPE+mejHEtdHT/y58l8wpHJOrbvJokUFSoJ6yYs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Ahmad2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\Ahmad3.jpg",
+      "SourceId": "Infinity-Solutions",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\",
+      "BasePath": "_content/Infinity-Solutions",
+      "RelativePath": "images/Ahmad3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "iw2dsmdyra",
+      "Integrity": "DqwjrJ3jLP75kDLyaLzyoS5GIFMKpGJpbE5KWdnmchg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Ahmad3.jpg"
+    },
+    {
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\apple-icon.svg",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -180,33 +195,80 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\images\\apple-icon.svg",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "images/apple-icon.svg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "icim36j0dd",
       "Integrity": "ng4kNlXLYA2Psusotw7/LL7PtDbTCU9ex66Ql5uzdA0=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\apple-icon.svg"
     },
     {
-<<<<<<< HEAD
+      "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\BG-SignUp-Page.jpg",
+      "SourceId": "Infinity-Solutions",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\",
+      "BasePath": "_content/Infinity-Solutions",
+      "RelativePath": "images/BG-SignUp-Page#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g782avl65j",
+      "Integrity": "DIxeXjqiKdZr6AZp+hMI4DuWCvFjZEu0KH0nvSE0UCo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\BG-SignUp-Page.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\BG-SignUp-Page1.jpg",
+      "SourceId": "Infinity-Solutions",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\",
+      "BasePath": "_content/Infinity-Solutions",
+      "RelativePath": "images/BG-SignUp-Page1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mjdwrccacd",
+      "Integrity": "kvet/UdXHJpawuvyuoUpWZpCE3qwRJB7/FNPdVqfXFg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\BG-SignUp-Page1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\BG-SignUp-Page2.jpg",
+      "SourceId": "Infinity-Solutions",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\",
+      "BasePath": "_content/Infinity-Solutions",
+      "RelativePath": "images/BG-SignUp-Page2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5laskx67an",
+      "Integrity": "ZwM47s5m8Fj3YDul0cFmf06cHpy81/QKsBzloIbH/vs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\BG-SignUp-Page2.jpg"
+    },
+    {
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\cyber-security-logo.svg",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -217,23 +279,10 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\images\\google-icon.svg",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "images/google-icon.svg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "y3hsds64th",
       "Integrity": "nsLPl3J5eyAv/QahX7A0mcFC+VqmXEjWPAFmIbLvHLU=",
       "CopyToOutputDirectory": "Never",
@@ -278,14 +327,11 @@
       "AssetTraitValue": "",
       "Fingerprint": "54n8v5cr3s",
       "Integrity": "+6UBzYmpJcralv8P+xvWfpZp28QiWTF417rqtcBiWUw=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\google-icon.svg"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\insta.svg",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -296,33 +342,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\images\\insta.svg",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "images/insta.svg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "wpfa1wyp8t",
       "Integrity": "FO91glNVWCAGIyFti+7KD3+sWPDjoa1V13qyR/GEOsQ=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\insta.svg"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\logo-bg-login.jpeg",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -333,33 +363,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\images\\logo-bg-login.jpeg",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "images/logo-bg-login.jpeg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "6ndq46p7xa",
       "Integrity": "boyhMXADRYGhCnKe+DVPWgNGzYr5fU79VRoMslRcpf4=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\logo-bg-login.jpeg"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\logo.svg",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -370,33 +384,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\images\\logo.svg",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "images/logo.svg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "693f00g4dq",
       "Integrity": "Or4ZjvEbBFViqSE97udUMPNlc9FlNB5rR7KNofc9MTA=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\logo.svg"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\pana.svg",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -407,33 +405,38 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\images\\pana.svg",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "images/pana.svg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "zdlet3vvoa",
       "Integrity": "OcNBl17E4tScTemvZX46RVKqyeI7w47fgnxy6758iIk=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\pana.svg"
     },
     {
-<<<<<<< HEAD
+      "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\register.png",
+      "SourceId": "Infinity-Solutions",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\",
+      "BasePath": "_content/Infinity-Solutions",
+      "RelativePath": "images/register#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9i2cg973w0",
+      "Integrity": "sZum/o7t0v5zm7xshVkosk7Pkk5K4mWXLhfHp5m2H5U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\register.png"
+    },
+    {
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\right-sec3.svg",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -444,23 +447,10 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\images\\Right.svg",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "images/Right.svg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "svrq3stpni",
       "Integrity": "qPJBKlnWj2oGTgDPXurSk6lLEIOYG9WPYta/4c2eS8o=",
       "CopyToOutputDirectory": "Never",
@@ -484,14 +474,11 @@
       "AssetTraitValue": "",
       "Fingerprint": "l2bykcbj9w",
       "Integrity": "c99pQgel0nK78pS8lRiPfWZ18PgUuhB3BDMH6f+RqvE=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\Right.svg"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\send.svg",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -502,33 +489,59 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\images\\send.svg",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "images/send.svg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "s207c7fj5b",
       "Integrity": "3EvLyidlZouny59DtGHQgD2+tHSn0b1AuI6G5yJzGfk=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\send.svg"
     },
     {
-<<<<<<< HEAD
+      "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\Tareq.PNG",
+      "SourceId": "Infinity-Solutions",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\",
+      "BasePath": "_content/Infinity-Solutions",
+      "RelativePath": "images/Tareq#[.{fingerprint}]?.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0vwkq2unax",
+      "Integrity": "XCWoOxMEDOt/fm6yjrlGUbGYgusj/QJtVYGFDbPpbVM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Tareq.PNG"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\Tareq1.PNG",
+      "SourceId": "Infinity-Solutions",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\",
+      "BasePath": "_content/Infinity-Solutions",
+      "RelativePath": "images/Tareq1#[.{fingerprint}]?.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hc3ngxpgd8",
+      "Integrity": "T8vMr2dW0R32UyMMVpwuEqqouvdRE3fP2rWTDLhDxGY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Tareq1.PNG"
+    },
+    {
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\website-logo.svg",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -539,23 +552,10 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\images\\X.png",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "images/X.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "qa9z8zj7rx",
       "Integrity": "0n2rYxPhG5Qu3UxuGZD50KF8BHLJHkdZ8+M+0YauonU=",
       "CopyToOutputDirectory": "Never",
@@ -579,14 +579,11 @@
       "AssetTraitValue": "",
       "Fingerprint": "yv1n6m14os",
       "Integrity": "sqj78cnh7jDZ1GrjxQQNH8ShcKZAyVAP8/lgL4PXp1Y=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\X.png"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\Youtube.png",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -597,33 +594,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\images\\Youtube.png",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "images/Youtube.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "o2o4qx1u74",
       "Integrity": "IJ9xL+ZWlcrnXQACAExEL2W6533lEdbssoV6snuzoZI=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\Youtube.png"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\js\\site.js",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -634,33 +615,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\js\\site.js",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "js/site.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "xtxxf3hu2r",
       "Integrity": "hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -671,33 +636,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "agp80tu62r",
       "Integrity": "JtktgiuQAd+AXerCnPMrHCDz1h5AtkH5tobvpuG7xZ4=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -708,33 +657,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "st1cbwfwo5",
       "Integrity": "QO8cMbVkLiktUX1cHeXSUSe5nXMXUgyL9cjwnMyxPqc=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -745,33 +678,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "unj9p35syc",
       "Integrity": "ysBT/JYxH9gcMnwxT4+MB4sPxOx/JMg9wi77FA13T9A=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -782,33 +699,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "5vj65cig9w",
       "Integrity": "72C/qDCGu+OwWeVA03bf9Ke0T8oIozCub0lfJkhzhvE=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -819,33 +720,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "q2ku51ktnl",
       "Integrity": "3vUJkZSpKL/zG7x6GNvDjs0TxYUo9zMt6dAc8hp9CVo=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -856,33 +741,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "2q4vfeazbq",
       "Integrity": "qvA39OMlEs53jaewqVFmE8DQQrio47bZtlTs+Wu6U8g=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -893,33 +762,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "n1oizzvkh6",
       "Integrity": "O6lb2kXarGgVw4/RDD42yYPhZIwREthThQFKGmD+3j0=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -930,33 +783,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "o371a8zbv2",
       "Integrity": "NDSZjIiMPRIoO7/w7+jHef8retP4riQa8PMj4BVRGok=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -967,33 +804,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "7na4sro3qu",
       "Integrity": "4zbWr0QNFhpUwGkn4WdGWXt80KnhRFv0qXkZyVnhajY=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -1004,33 +825,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "jeal3x0ldm",
       "Integrity": "FZG0KxbNqITUi4QY7QvPFRS/TccntMfFWfSTdHN/pws=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -1041,33 +846,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "f8imaxxbri",
       "Integrity": "z0OApR88UEocYXTXHU7Ueycaiib9XbDUmel9Gx0gbx4=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -1078,33 +867,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "okkk44j0xs",
       "Integrity": "2BbRsE/+czX1ufmDPGpnEieC9u6I3m5BKNDSX1ob3lg=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -1115,33 +888,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "0wve5yxp74",
       "Integrity": "8NXw3kF49FkQVPMdjnGDqoXXRU0TwzsLfCGbK9U8gnk=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -1152,33 +909,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "cwzlr5n8x4",
       "Integrity": "/EdWHN6t5XYPplC88vixGfrBvfEii19kAssb+0YBVU8=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -1189,33 +930,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "npxfuf8dg6",
       "Integrity": "a5KlgysZ4fQXw4rzIvXDHErFDPeHRSLccP7kX6HuvSQ=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -1226,33 +951,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "wmug9u23qg",
       "Integrity": "GMDk5pA5dFkOimkBAWeEjYZ+7lgHPS0jYln6p/WJVYs=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -1263,33 +972,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "tey0rigmnh",
       "Integrity": "NbFZxZLmBVNLzb/7B0WdFfb6+8jXHGX6XY190uwgbec=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -1300,33 +993,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "j75batdsum",
       "Integrity": "4WIqPof/vrXYO/jeJ4fDOQKUYWIwe64V3d+9/qNju20=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -1337,33 +1014,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "16095smhkz",
       "Integrity": "5+ExmMkiaI3keYQRLhNibJ5ZXnNuWRbwrXOAZoTXMFg=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -1374,33 +1035,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "vy0bq9ydhf",
       "Integrity": "p1dop4slefZhL4zG2pa6+2HUrOY1UUArGJXmet8Md9c=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -1411,33 +1056,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "b4skse8du6",
       "Integrity": "peAGH8Gu/ZL9VnbUGSMN69Ji5MxwbvOb53gDXU2cPaQ=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -1448,33 +1077,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "ab1c3rmv7g",
       "Integrity": "puDgKwvlFAord9R8G8of9P2CVYIJUFSoIbjDLEsKEH0=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -1485,33 +1098,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "u3xrusw2ol",
       "Integrity": "Wi5ZuFSHLfx6dlEgjvW3BY9TC/1NqdBjj+XFifSSqN4=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -1522,33 +1119,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "56d2bn4wt9",
       "Integrity": "02ka4ymoE5yEecLUncLG3/SouTQMnTJOktX+96Pt/88=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -1559,33 +1140,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "mpyigms19s",
       "Integrity": "xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -1596,33 +1161,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "73kdqttayv",
       "Integrity": "DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -1633,33 +1182,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "bpk8xqwxhs",
       "Integrity": "z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -1670,33 +1203,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "8inm30yfxf",
       "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -1707,33 +1224,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "ve6x09088i",
       "Integrity": "SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -1744,33 +1245,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "4gxs3k148c",
       "Integrity": "VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -1781,33 +1266,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "9b9oa1qrmt",
       "Integrity": "22wR6QTidoeiRZXp6zkRQyMSUb/FB+Av11jqmZJF6uU=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -1818,33 +1287,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "fctod5rc9n",
       "Integrity": "j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -1855,33 +1308,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "l2av4jpuoj",
       "Integrity": "vQTf4d3WJi9vmWQNA4kJnjoedgEhMFXFDEMXqtHtgzk=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -1892,33 +1329,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "kbynt5jhd9",
       "Integrity": "gO4uhxfGuK0ONjRlHuwfghGfEXT5azm1oHWnTEFGTfk=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -1929,33 +1350,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "25iw1kog22",
       "Integrity": "KuvCVS19rfTjoLgMyDDCdOkRRlhNrY4psEM4uezts2M=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -1966,33 +1371,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "c2nslu3uf3",
       "Integrity": "xIBBxDPvWhk8/JdaFEZoejadfaKFUfZFwRS1D4Jkuro=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -2003,33 +1392,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "m39kt2b5c9",
       "Integrity": "EuDXUJYKnfZuO8dSLN0f5iVbVasz36AROuAU3NJ3JBo=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -2040,33 +1413,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "2lgwfvgpvi",
       "Integrity": "CllC/sbLvyLE9cQljmFRlITfqdZRnBv2ysX5LJtl/dg=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -2077,33 +1434,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "um2aeqy4ik",
       "Integrity": "Kj4irQWPwfSb5NFeos/h0IroI5/nIg0HtAjQ+w4v6TE=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -2114,33 +1455,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "wsezl0heh6",
       "Integrity": "sPqzWcSS9aRa2gpWTVNQzemajn8hrFjgXPj3j9QItQo=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -2151,33 +1476,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "o4kw7cc6tf",
       "Integrity": "6IStRQerBchYSw6J2GWTOWGOnDRrWXmaG0r6nCwN5s4=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -2188,33 +1497,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "6ukhryfubh",
       "Integrity": "Qkl5mZUZ64aYBaORRMP9jfD1kz8J6FwiV2M86JDJkdQ=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -2225,33 +1518,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "zwph15dxgs",
       "Integrity": "c4Ll6eSIg6Eothk8pCWAF8aE923EvtU11pqjBy+NjNM=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -2262,33 +1539,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "u33ctipx7g",
       "Integrity": "ui/FQI+y0IUsY8Pbi80b8s3GeEL+PsvdaLTONobpn88=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -2299,33 +1560,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\lib\\bootstrap\\LICENSE",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "lib/bootstrap/LICENSE",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "81b7ukuj9c",
       "Integrity": "ZH6pA6BSx6fuHZvdaKph1DwUJ+VSYilIiEQu8ilnvqk=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -2336,33 +1581,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "47otxtyo56",
       "Integrity": "wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -2373,33 +1602,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "4v8eqarkd7",
       "Integrity": "YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -2410,33 +1623,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "356vix0kms",
       "Integrity": "16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -2447,33 +1644,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "ay5nd8zt9x",
       "Integrity": "4jrcLBsi0Ugm8iLKdqDsAyaCDjkscYZdoGuNH/zqs4E=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -2484,33 +1665,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "9oaff4kq20",
       "Integrity": "N11IyJpHTgDcSCb3AfX4VrBnpGQeem1NoNzzgcXVyCc=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -2521,33 +1686,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "pzqfkb6aqo",
       "Integrity": "m0l81WDPiG7CcG7CDsTuZzvcGvyFmrQY5DLIxx3aRGw=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -2558,33 +1707,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "b7iojwaux1",
       "Integrity": "JwUksNJ6/R07ZiLRoXbGeNrtlFZMFDKX4hemPiHOmCA=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -2595,33 +1728,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "lib/jquery-validation/LICENSE.md",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "x0q3zqp4vz",
       "Integrity": "geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -2632,33 +1749,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "lib/jquery/dist/jquery.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "fwhahm2icz",
       "Integrity": "H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -2669,33 +1770,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "lib/jquery/dist/jquery.min.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "dd6z7egasc",
       "Integrity": "/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -2706,33 +1791,17 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "lib/jquery/dist/jquery.min.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "5pze98is44",
       "Integrity": "OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Infinity-Solutions",
       "SourceType": "Discovered",
@@ -2743,32 +1812,16 @@
       "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
-=======
-      "Identity": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "SourceId": "Infinity-Solutions",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmad\\OneDrive\\Desktop\\Infinity_sol\\wwwroot\\",
-      "BasePath": "_content/Infinity-Solutions",
-      "RelativePath": "lib/jquery/LICENSE.txt",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "mlv21k5csn",
       "Integrity": "hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=",
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     }
-<<<<<<< HEAD
   ],
   "Endpoints": [
     {
@@ -2782,7 +1835,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5944"
+          "Value": "6811"
         },
         {
           "Name": "Content-Type",
@@ -2790,11 +1843,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"yxPea7hFWYnWy1AjoHk6afFgpnVGfJk31OvFDJ3Tgws=\""
+          "Value": "\"6vKRZC6aAvWVeinPSt5lHs5xTmy5FmdS/sRZS+aGwCo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 23:06:19 GMT"
+          "Value": "Fri, 04 Apr 2025 23:39:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2804,12 +1857,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-yxPea7hFWYnWy1AjoHk6afFgpnVGfJk31OvFDJ3Tgws="
+          "Value": "sha256-6vKRZC6aAvWVeinPSt5lHs5xTmy5FmdS/sRZS+aGwCo="
         }
       ]
     },
     {
-      "Route": "css/site.h5zpqdo17f.css",
+      "Route": "css/site.mcht4zamew.css",
       "AssetFile": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2819,7 +1872,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5944"
+          "Value": "6811"
         },
         {
           "Name": "Content-Type",
@@ -2827,11 +1880,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"yxPea7hFWYnWy1AjoHk6afFgpnVGfJk31OvFDJ3Tgws=\""
+          "Value": "\"6vKRZC6aAvWVeinPSt5lHs5xTmy5FmdS/sRZS+aGwCo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 23:06:19 GMT"
+          "Value": "Fri, 04 Apr 2025 23:39:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2841,7 +1894,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "h5zpqdo17f"
+          "Value": "mcht4zamew"
         },
         {
           "Name": "label",
@@ -2849,7 +1902,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-yxPea7hFWYnWy1AjoHk6afFgpnVGfJk31OvFDJ3Tgws="
+          "Value": "sha256-6vKRZC6aAvWVeinPSt5lHs5xTmy5FmdS/sRZS+aGwCo="
         }
       ]
     },
@@ -2936,6 +1989,334 @@
       ]
     },
     {
+      "Route": "images/add-user.oibsis4t4c.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\add-user.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12602"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UOuYQlG8OjpC5KqC+tP654egWTo7AKfZLfzjaCcE9Kg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 19:03:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oibsis4t4c"
+        },
+        {
+          "Name": "label",
+          "Value": "images/add-user.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UOuYQlG8OjpC5KqC+tP654egWTo7AKfZLfzjaCcE9Kg="
+        }
+      ]
+    },
+    {
+      "Route": "images/add-user.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\add-user.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12602"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UOuYQlG8OjpC5KqC+tP654egWTo7AKfZLfzjaCcE9Kg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 19:03:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UOuYQlG8OjpC5KqC+tP654egWTo7AKfZLfzjaCcE9Kg="
+        }
+      ]
+    },
+    {
+      "Route": "images/Ahmad1.55cdjbsk1z.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\Ahmad1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "86816"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R8LKGeawwH6U3jNdNGWaIkbrLErz4tDgv+Fl7F3GrWM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 02:09:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "55cdjbsk1z"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Ahmad1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-R8LKGeawwH6U3jNdNGWaIkbrLErz4tDgv+Fl7F3GrWM="
+        }
+      ]
+    },
+    {
+      "Route": "images/Ahmad1.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\Ahmad1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "86816"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R8LKGeawwH6U3jNdNGWaIkbrLErz4tDgv+Fl7F3GrWM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 02:09:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-R8LKGeawwH6U3jNdNGWaIkbrLErz4tDgv+Fl7F3GrWM="
+        }
+      ]
+    },
+    {
+      "Route": "images/Ahmad2.frtmpigg21.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\Ahmad2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115455"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1X5kxPE+mejHEtdHT/y58l8wpHJOrbvJokUFSoJ6yYs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 02:09:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "frtmpigg21"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Ahmad2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1X5kxPE+mejHEtdHT/y58l8wpHJOrbvJokUFSoJ6yYs="
+        }
+      ]
+    },
+    {
+      "Route": "images/Ahmad2.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\Ahmad2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115455"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1X5kxPE+mejHEtdHT/y58l8wpHJOrbvJokUFSoJ6yYs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 02:09:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1X5kxPE+mejHEtdHT/y58l8wpHJOrbvJokUFSoJ6yYs="
+        }
+      ]
+    },
+    {
+      "Route": "images/Ahmad3.iw2dsmdyra.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\Ahmad3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "106264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DqwjrJ3jLP75kDLyaLzyoS5GIFMKpGJpbE5KWdnmchg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 02:09:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iw2dsmdyra"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Ahmad3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DqwjrJ3jLP75kDLyaLzyoS5GIFMKpGJpbE5KWdnmchg="
+        }
+      ]
+    },
+    {
+      "Route": "images/Ahmad3.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\Ahmad3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "106264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DqwjrJ3jLP75kDLyaLzyoS5GIFMKpGJpbE5KWdnmchg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 02:09:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DqwjrJ3jLP75kDLyaLzyoS5GIFMKpGJpbE5KWdnmchg="
+        }
+      ]
+    },
+    {
       "Route": "images/apple-icon.icim36j0dd.svg",
       "AssetFile": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\apple-icon.svg",
       "Selectors": [],
@@ -3014,6 +2395,252 @@
         {
           "Name": "integrity",
           "Value": "sha256-ng4kNlXLYA2Psusotw7/LL7PtDbTCU9ex66Ql5uzdA0="
+        }
+      ]
+    },
+    {
+      "Route": "images/BG-SignUp-Page.g782avl65j.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\BG-SignUp-Page.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6963"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DIxeXjqiKdZr6AZp+hMI4DuWCvFjZEu0KH0nvSE0UCo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 18:24:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g782avl65j"
+        },
+        {
+          "Name": "label",
+          "Value": "images/BG-SignUp-Page.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DIxeXjqiKdZr6AZp+hMI4DuWCvFjZEu0KH0nvSE0UCo="
+        }
+      ]
+    },
+    {
+      "Route": "images/BG-SignUp-Page.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\BG-SignUp-Page.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6963"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DIxeXjqiKdZr6AZp+hMI4DuWCvFjZEu0KH0nvSE0UCo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 18:24:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DIxeXjqiKdZr6AZp+hMI4DuWCvFjZEu0KH0nvSE0UCo="
+        }
+      ]
+    },
+    {
+      "Route": "images/BG-SignUp-Page1.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\BG-SignUp-Page1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "69018"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kvet/UdXHJpawuvyuoUpWZpCE3qwRJB7/FNPdVqfXFg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 20:08:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kvet/UdXHJpawuvyuoUpWZpCE3qwRJB7/FNPdVqfXFg="
+        }
+      ]
+    },
+    {
+      "Route": "images/BG-SignUp-Page1.mjdwrccacd.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\BG-SignUp-Page1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "69018"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kvet/UdXHJpawuvyuoUpWZpCE3qwRJB7/FNPdVqfXFg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 20:08:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mjdwrccacd"
+        },
+        {
+          "Name": "label",
+          "Value": "images/BG-SignUp-Page1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kvet/UdXHJpawuvyuoUpWZpCE3qwRJB7/FNPdVqfXFg="
+        }
+      ]
+    },
+    {
+      "Route": "images/BG-SignUp-Page2.5laskx67an.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\BG-SignUp-Page2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "133818"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZwM47s5m8Fj3YDul0cFmf06cHpy81/QKsBzloIbH/vs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 23:24:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5laskx67an"
+        },
+        {
+          "Name": "label",
+          "Value": "images/BG-SignUp-Page2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZwM47s5m8Fj3YDul0cFmf06cHpy81/QKsBzloIbH/vs="
+        }
+      ]
+    },
+    {
+      "Route": "images/BG-SignUp-Page2.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\BG-SignUp-Page2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "133818"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZwM47s5m8Fj3YDul0cFmf06cHpy81/QKsBzloIbH/vs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 23:24:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZwM47s5m8Fj3YDul0cFmf06cHpy81/QKsBzloIbH/vs="
         }
       ]
     },
@@ -3592,6 +3219,88 @@
       ]
     },
     {
+      "Route": "images/register.9i2cg973w0.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\register.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "656"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sZum/o7t0v5zm7xshVkosk7Pkk5K4mWXLhfHp5m2H5U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 19:16:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9i2cg973w0"
+        },
+        {
+          "Name": "label",
+          "Value": "images/register.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sZum/o7t0v5zm7xshVkosk7Pkk5K4mWXLhfHp5m2H5U="
+        }
+      ]
+    },
+    {
+      "Route": "images/register.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\register.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "656"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sZum/o7t0v5zm7xshVkosk7Pkk5K4mWXLhfHp5m2H5U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 19:16:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sZum/o7t0v5zm7xshVkosk7Pkk5K4mWXLhfHp5m2H5U="
+        }
+      ]
+    },
+    {
       "Route": "images/right-sec3.svg",
       "AssetFile": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\right-sec3.svg",
       "Selectors": [],
@@ -3834,6 +3543,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-3EvLyidlZouny59DtGHQgD2+tHSn0b1AuI6G5yJzGfk="
+        }
+      ]
+    },
+    {
+      "Route": "images/Tareq.0vwkq2unax.PNG",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\Tareq.PNG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "190176"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XCWoOxMEDOt/fm6yjrlGUbGYgusj/QJtVYGFDbPpbVM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 21:27:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0vwkq2unax"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Tareq.PNG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XCWoOxMEDOt/fm6yjrlGUbGYgusj/QJtVYGFDbPpbVM="
+        }
+      ]
+    },
+    {
+      "Route": "images/Tareq.PNG",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\Tareq.PNG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "190176"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XCWoOxMEDOt/fm6yjrlGUbGYgusj/QJtVYGFDbPpbVM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 21:27:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XCWoOxMEDOt/fm6yjrlGUbGYgusj/QJtVYGFDbPpbVM="
+        }
+      ]
+    },
+    {
+      "Route": "images/Tareq1.hc3ngxpgd8.PNG",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\Tareq1.PNG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "346436"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T8vMr2dW0R32UyMMVpwuEqqouvdRE3fP2rWTDLhDxGY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 21:28:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hc3ngxpgd8"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Tareq1.PNG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-T8vMr2dW0R32UyMMVpwuEqqouvdRE3fP2rWTDLhDxGY="
+        }
+      ]
+    },
+    {
+      "Route": "images/Tareq1.PNG",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\wwwroot\\images\\Tareq1.PNG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "346436"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T8vMr2dW0R32UyMMVpwuEqqouvdRE3fP2rWTDLhDxGY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 21:28:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-T8vMr2dW0R32UyMMVpwuEqqouvdRE3fP2rWTDLhDxGY="
         }
       ]
     },
@@ -4084,96 +3957,6 @@
       ]
     },
     {
-      "Route": "Infinity-Solutions.9kvu6u2ert.bundle.scp.css",
-      "AssetFile": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Infinity-Solutions.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1138"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SZnT/TaNw/5h91zQ3X+H64vGIvYTqUEz5Hq16BXVjZo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 19:07:34 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "9kvu6u2ert"
-        },
-        {
-          "Name": "label",
-          "Value": "Infinity-Solutions.bundle.scp.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-SZnT/TaNw/5h91zQ3X+H64vGIvYTqUEz5Hq16BXVjZo="
-        }
-      ]
-    },
-    {
-      "Route": "Infinity-Solutions.9kvu6u2ert.styles.css",
-      "AssetFile": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Infinity-Solutions.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1138"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SZnT/TaNw/5h91zQ3X+H64vGIvYTqUEz5Hq16BXVjZo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 19:07:34 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "9kvu6u2ert"
-        },
-        {
-          "Name": "label",
-          "Value": "Infinity-Solutions.styles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-SZnT/TaNw/5h91zQ3X+H64vGIvYTqUEz5Hq16BXVjZo="
-        }
-      ]
-    },
-    {
       "Route": "Infinity-Solutions.bundle.scp.css",
       "AssetFile": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Infinity-Solutions.bundle.scp.css",
       "Selectors": [],
@@ -4184,7 +3967,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1138"
+          "Value": "942"
         },
         {
           "Name": "Content-Type",
@@ -4192,11 +3975,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"SZnT/TaNw/5h91zQ3X+H64vGIvYTqUEz5Hq16BXVjZo=\""
+          "Value": "\"hQyjUR5UTAaMOgKud5QeYR/WWbFVVKJTMruAvKF9UUs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 19:07:34 GMT"
+          "Value": "Fri, 04 Apr 2025 19:59:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4206,7 +3989,97 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-SZnT/TaNw/5h91zQ3X+H64vGIvYTqUEz5Hq16BXVjZo="
+          "Value": "sha256-hQyjUR5UTAaMOgKud5QeYR/WWbFVVKJTMruAvKF9UUs="
+        }
+      ]
+    },
+    {
+      "Route": "Infinity-Solutions.nxot8ay1q2.bundle.scp.css",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Infinity-Solutions.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "942"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hQyjUR5UTAaMOgKud5QeYR/WWbFVVKJTMruAvKF9UUs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 19:59:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nxot8ay1q2"
+        },
+        {
+          "Name": "label",
+          "Value": "Infinity-Solutions.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hQyjUR5UTAaMOgKud5QeYR/WWbFVVKJTMruAvKF9UUs="
+        }
+      ]
+    },
+    {
+      "Route": "Infinity-Solutions.nxot8ay1q2.styles.css",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Free lancer\\Infinity_WebSite\\Infinity-Solutions\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Infinity-Solutions.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "942"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hQyjUR5UTAaMOgKud5QeYR/WWbFVVKJTMruAvKF9UUs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 19:59:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nxot8ay1q2"
+        },
+        {
+          "Name": "label",
+          "Value": "Infinity-Solutions.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hQyjUR5UTAaMOgKud5QeYR/WWbFVVKJTMruAvKF9UUs="
         }
       ]
     },
@@ -4221,7 +4094,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1138"
+          "Value": "942"
         },
         {
           "Name": "Content-Type",
@@ -4229,11 +4102,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"SZnT/TaNw/5h91zQ3X+H64vGIvYTqUEz5Hq16BXVjZo=\""
+          "Value": "\"hQyjUR5UTAaMOgKud5QeYR/WWbFVVKJTMruAvKF9UUs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 19:07:34 GMT"
+          "Value": "Fri, 04 Apr 2025 19:59:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4243,7 +4116,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-SZnT/TaNw/5h91zQ3X+H64vGIvYTqUEz5Hq16BXVjZo="
+          "Value": "sha256-hQyjUR5UTAaMOgKud5QeYR/WWbFVVKJTMruAvKF9UUs="
         }
       ]
     },
@@ -9003,7 +8876,5 @@
         }
       ]
     }
-=======
->>>>>>> 8e25dfc0f57636dc1bc6b1c2d96415cb1f1da83f
   ]
 }
