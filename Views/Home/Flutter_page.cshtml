@@ -3,20 +3,25 @@
 }
 
 
-<section class="swiper-hero-section mb-5">
+<section class="slide-show-section">
+  <div class="slide-container">
     <swiper-container 
         loop="true" 
         autoplay="true" 
         effect="coverflow"
-        class="rounded shadow">
-        <swiper-slide><img src="~/images/Ahmad1.jpg" alt="Slide Image" class="img-fluid"></swiper-slide>
-        <swiper-slide><img src="~/images/Ahmad2.jpg" alt="Slide Image" class="img-fluid"></swiper-slide>
-        <swiper-slide><img src="~/images/Ahmad3.jpg" alt="Slide Image" class="img-fluid"></swiper-slide>
-        <swiper-slide><img src="~/images/pana.svg" alt="Slide Image" class="img-fluid"></swiper-slide>
-        <swiper-slide><img src="~/images/logo.svg" alt="Slide Image" class="img-fluid"></swiper-slide>
-        <swiper-slide><img src="~/images/logo.svg" alt="Slide Image" class="img-fluid"></swiper-slide>
+        pagination="true"
+        pagination-clickable="true"
+        class="custom-swiper">
+        <swiper-slide><img src="~/images/Ahmad1.jpg" alt="Slide Image" class="slide-image"></swiper-slide>
+        <swiper-slide><img src="~/images/Ahmad2.jpg" alt="Slide Image" class="slide-image"></swiper-slide>
+        <swiper-slide><img src="~/images/Ahmad3.jpg" alt="Slide Image" class="slide-image"></swiper-slide>
+        <swiper-slide><img src="~/images/pana.svg" alt="Slide Image" class="slide-image"></swiper-slide>
+        <swiper-slide><img src="~/images/logo.svg" alt="Slide Image" class="slide-image"></swiper-slide>
+        <swiper-slide><img src="~/images/logo.svg" alt="Slide Image" class="slide-image"></swiper-slide>
     </swiper-container>
+  </div>
 </section>
+
 
 <div class="container">
 <section class="projects-section py-5">
@@ -71,13 +76,13 @@
     </div>
 </section>
 
-<section>
-  <div class="grid-flex">
-    <div class="col col-image">
-      <img src="~/images/Ahmad1.jpg" alt="Image" class="img-fluid">
+<section class="ahmad-section">
+  <div class="ahmad-grid-flex">
+    <div class="ahmad-col ahmad-col-image">
+      <img src="~/images/Ahmad1.jpg" alt="Image" class="ahmad-img-fluid">
     </div>
-    <div class="col col-text">
-      <div class="Aligner-item">
+    <div class="ahmad-col ahmad-col-text">
+      <div class="ahmad-aligner-item">
         <h1>- Flutter simple</h1>
         <p>
           Donec a eros justo. Fusce egestas tristique ultrices. Nam tempor, augue nec tincidunt molestie, massa nunc
@@ -90,12 +95,12 @@
     </div>
   </div>
   
-  <div class="grid-flex">
-    <div class="col col-image">
-      <img src="~/images/Ahmad2.jpg" alt="Image" class="img-fluid">
+  <div class="ahmad-grid-flex">
+    <div class="ahmad-col ahmad-col-image">
+      <img src="~/images/Ahmad2.jpg" alt="Image" class="ahmad-img-fluid">
     </div>
-    <div class="col col-text col-left">
-      <div class="Aligner-item">
+    <div class="ahmad-col ahmad-col-text ahmad-col-left">
+      <div class="ahmad-aligner-item">
         <h1>- Flutter simple</h1>
         <p>
           Donec a eros justo. Fusce egestas tristique ultrices. Nam tempor, augue nec tincidunt molestie, massa nunc
@@ -108,12 +113,12 @@
     </div>
   </div>
   
-  <div class="grid-flex">
-    <div class="col col-image">
-      <img src="~/images/Ahmad3.jpg" alt="Image" class="img-fluid">
+  <div class="ahmad-grid-flex">
+    <div class="ahmad-col ahmad-col-image">
+      <img src="~/images/Ahmad3.jpg" alt="Image" class="ahmad-img-fluid">
     </div>
-    <div class="col col-text">
-      <div class="Aligner-item">
+    <div class="ahmad-col ahmad-col-text">
+      <div class="ahmad-aligner-item">
         <h1>- Flutter simple</h1>
         <p>
           Donec a eros justo. Fusce egestas tristique ultrices. Nam tempor, augue nec tincidunt molestie, massa nunc
@@ -126,12 +131,12 @@
     </div>
   </div>
   
-  <div class="grid-flex">
-    <div class="col col-image">
-      <img src="~/images/pana.svg" alt="Image" class="img-fluid">
+  <div class="ahmad-grid-flex">
+    <div class="ahmad-col ahmad-col-image">
+      <img src="~/images/pana.svg" alt="Image" class="ahmad-img-fluid">
     </div>
-    <div class="col col-text col-left">
-      <div class="Aligner-item">
+    <div class="ahmad-col ahmad-col-text ahmad-col-left">
+      <div class="ahmad-aligner-item">
         <h1>- Flutter simple</h1>
         <p>
           Donec a eros justo. Fusce egestas tristique ultrices. Nam tempor, augue nec tincidunt molestie, massa nunc
@@ -144,12 +149,12 @@
     </div>
   </div>
   
-  <div class="grid-flex">
-    <div class="col col-image">
-      <img src="~/images/pana.svg" alt="Image" class="img-fluid">
+  <div class="ahmad-grid-flex">
+    <div class="ahmad-col ahmad-col-image">
+      <img src="~/images/pana.svg" alt="Image" class="ahmad-img-fluid">
     </div>
-    <div class="col col-text">
-      <div class="Aligner-item">
+    <div class="ahmad-col ahmad-col-text">
+      <div class="ahmad-aligner-item">
         <h1>- Flutter simple</h1>
         <p>
           Donec a eros justo. Fusce egestas tristique ultrices. Nam tempor, augue nec tincidunt molestie, massa nunc
@@ -157,7 +162,6 @@
         platea dictumst. Vivamus vehicula leo dui, at porta nisi facilisis finibus. In euismod augue vitae nisi
         ultricies, non aliquet urna tincidunt. Integer in nisi eget nulla commodo faucibus efficitur quis massa.
         Praesent felis est, finibus et nisi ac, hendrerit venenatis libero. Donec consectetur faucibus ipsum id gravida.
-        </p>
         </p>
       </div>
     </div>

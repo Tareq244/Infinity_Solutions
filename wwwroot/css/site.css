@@ -356,3 +356,191 @@ border-radius: 20px;
   color: #4CAF4F;
   font-size: 45px;
 }
+
+
+
+/* Work Ahmad for Flutter & web & sec page*/
+
+.ahmad-section {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+
+.ahmad-grid-flex {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 30px;
+  border-radius: 5px;
+  overflow: hidden;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+}
+
+
+.ahmad-col {
+  flex: 1 0 0;
+  min-width: 300px;
+}
+
+.ahmad-col-image {
+  background-color: #f8f8f8;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.ahmad-col-text {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+
+.ahmad-img-fluid {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+
+.ahmad-aligner-item {
+  width: 100%;
+}
+
+.ahmad-aligner-item h1 {
+  margin-top: 0;
+  margin-bottom: 15px;
+  font-size: 24px;
+  color: #333;
+}
+
+.ahmad-aligner-item p {
+  margin: 0;
+  line-height: 1.6;
+  color: #666;
+}
+
+
+.ahmad-grid-flex:nth-child(odd) {
+  flex-direction: row-reverse;
+}
+
+
+.ahmad-grid-flex:nth-child(even) {
+  flex-direction: row;
+}
+
+
+@media (max-width: 768px) {
+  .ahmad-grid-flex {
+    flex-direction: column !important;
+  }
+  
+  .ahmad-col {
+    min-height: 300px;
+  }
+  
+  .ahmad-col-image {
+    order: -1;
+  }
+}
+
+
+
+
+/* Ahmad work for a slider images*/
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+.slide-show-section {
+  width: 100%;
+  margin: 0;
+  padding: 0; 
+}
+
+.slide-container {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  border-radius: 0; 
+  box-shadow: none; 
+}
+
+/* تنسيق swiper */
+.custom-swiper {
+  width: 100vw; 
+  height: 100vh; 
+}
+
+
+swiper-slide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  transition: transform 0.5s ease;
+}
+
+
+.slide-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+
+swiper-container::part(bullet) {
+  width: 12px;
+  height: 12px;
+  background-color: rgba(255, 255, 255, 0.6);
+  opacity: 0.7;
+  margin: 0 5px;
+  transition: all 0.3s ease;
+}
+
+swiper-container::part(bullet-active) {
+  background-color: #ffffff;
+  width: 14px;
+  height: 14px;
+  opacity: 1;
+}
+
+swiper-container::part(pagination) {
+  bottom: 20px;
+}
+
+
+swiper-slide-active {
+  transform: scale(1);
+}
+
+swiper-slide-prev, 
+swiper-slide-next {
+  transform: scale(0.85);
+  opacity: 0.7;
+}
+
+
+@media (max-width: 768px) {
+  .custom-swiper {
+    height: 60vh;
+  }
+
+  swiper-container::part(bullet) {
+    width: 10px;
+    height: 10px;
+  }
+}
+
+@media (max-width: 480px) {
+  .custom-swiper {
+    height: 50vh;
+  }
+}

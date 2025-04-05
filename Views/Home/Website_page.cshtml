@@ -3,29 +3,33 @@
     ViewData["Title"] = "Website_page";
 }
 
-<section class="swiper-hero-section mb-5">
+<section class="slide-show-section">
+  <div class="slide-container">
     <swiper-container 
         loop="true" 
         autoplay="true" 
         effect="coverflow"
-        class="rounded shadow">
-        <swiper-slide><img src="~/images/pana.svg" alt="Slide Image" class="img-fluid"></swiper-slide>
-        <swiper-slide><img src="~/images/logo.svg" alt="Slide Image" class="img-fluid"></swiper-slide>
-        <swiper-slide><img src="~/images/logo.svg" alt="Slide Image" class="img-fluid"></swiper-slide>
-        <swiper-slide><img src="~/images/pana.svg" alt="Slide Image" class="img-fluid"></swiper-slide>
-        <swiper-slide><img src="~/images/logo.svg" alt="Slide Image" class="img-fluid"></swiper-slide>
-        <swiper-slide><img src="~/images/logo.svg" alt="Slide Image" class="img-fluid"></swiper-slide>
+        pagination="true"
+        pagination-clickable="true"
+        class="custom-swiper">
+        <swiper-slide><img src="~/images/Ahmad1.jpg" alt="Slide Image" class="slide-image"></swiper-slide>
+        <swiper-slide><img src="~/images/Ahmad2.jpg" alt="Slide Image" class="slide-image"></swiper-slide>
+        <swiper-slide><img src="~/images/Ahmad3.jpg" alt="Slide Image" class="slide-image"></swiper-slide>
+        <swiper-slide><img src="~/images/pana.svg" alt="Slide Image" class="slide-image"></swiper-slide>
+        <swiper-slide><img src="~/images/logo.svg" alt="Slide Image" class="slide-image"></swiper-slide>
+        <swiper-slide><img src="~/images/logo.svg" alt="Slide Image" class="slide-image"></swiper-slide>
     </swiper-container>
+  </div>
 </section>
 
 
-<section class="projects-section py-5 bg-light">
+<div class="container">
+<section class="projects-section py-5">
     <div class="container">
-        
         <div class="text-center mb-5">
             <h2 class="fw-bold text-primary display-5 mb-3">🚀 Explore Some of Our Projects</h2>
             <p class="text-muted lead">Take a look at some of our featured work below.</p>
-            <hr class="divider my-4 mx-auto" style="max-width: 60px; border-width: 3px; border-color: #0d6efd;">
+            <hr class="divider my-4 mx-auto">
         </div>
         
         
@@ -33,13 +37,12 @@
            
             <div class="col-md-4">
                 <div class="card h-100 shadow-sm hover-card">
-                    <img class="card-img-top" src="~/images/logo.svg" alt="Project Image">
+                    <img class="card-img-top" src="~/images/Ahmad1.jpg" alt="Project Image">
                     <div class="card-body text-center">
                         <h5 class="card-title text-info fw-bold">Project Title</h5>
                         <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                     </div>
                     <div class="card-footer bg-transparent border-0 text-center">
-                        <a href="#" class="btn btn-outline-primary">Learn More</a>
                     </div>
                 </div>
             </div>
@@ -47,13 +50,12 @@
             
             <div class="col-md-4">
                 <div class="card h-100 shadow-sm hover-card">
-                    <img class="card-img-top" src="~/images/logo.svg" alt="Project Image">
+                    <img class="card-img-top" src="~/images/Ahmad2.jpg" alt="Project Image">
                     <div class="card-body text-center">
                         <h5 class="card-title text-info fw-bold">Project Title</h5>
                         <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
                     </div>
                     <div class="card-footer bg-transparent border-0 text-center">
-                        <a href="#" class="btn btn-outline-primary">Learn More</a>
                     </div>
                 </div>
             </div>
@@ -61,17 +63,109 @@
             
             <div class="col-md-4">
                 <div class="card h-100 shadow-sm hover-card">
-                    <img class="card-img-top" src="~/images/logo.svg" alt="Project Image">
+                    <img class="card-img-top" src="~/images/Ahmad3.jpg" alt="Project Image">
                     <div class="card-body text-center">
                         <h5 class="card-title text-info fw-bold">Project Title</h5>
                         <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
                     </div>
                     <div class="card-footer bg-transparent border-0 text-center">
-                        <a href="#" class="btn btn-outline-primary">Learn More</a>
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </section>
+
+<section class="ahmad-section">
+  <div class="ahmad-grid-flex">
+    <div class="ahmad-col ahmad-col-image">
+      <img src="~/images/Ahmad1.jpg" alt="Image" class="ahmad-img-fluid">
+    </div>
+    <div class="ahmad-col ahmad-col-text">
+      <div class="ahmad-aligner-item">
+        <h1>- Flutter simple</h1>
+        <p>
+          Donec a eros justo. Fusce egestas tristique ultrices. Nam tempor, augue nec tincidunt molestie, massa nunc
+        varius arcu, at scelerisque elit erat a magna. Donec quis erat at libero ultrices mollis. In hac habitasse
+        platea dictumst. Vivamus vehicula leo dui, at porta nisi facilisis finibus. In euismod augue vitae nisi
+        ultricies, non aliquet urna tincidunt. Integer in nisi eget nulla commodo faucibus efficitur quis massa.
+        Praesent felis est, finibus et nisi ac, hendrerit venenatis libero. Donec consectetur faucibus ipsum id gravida.
+        </p>
+      </div>
+    </div>
+  </div>
+  
+  <div class="ahmad-grid-flex">
+    <div class="ahmad-col ahmad-col-image">
+      <img src="~/images/Ahmad2.jpg" alt="Image" class="ahmad-img-fluid">
+    </div>
+    <div class="ahmad-col ahmad-col-text ahmad-col-left">
+      <div class="ahmad-aligner-item">
+        <h1>- Flutter simple</h1>
+        <p>
+          Donec a eros justo. Fusce egestas tristique ultrices. Nam tempor, augue nec tincidunt molestie, massa nunc
+        varius arcu, at scelerisque elit erat a magna. Donec quis erat at libero ultrices mollis. In hac habitasse
+        platea dictumst. Vivamus vehicula leo dui, at porta nisi facilisis finibus. In euismod augue vitae nisi
+        ultricies, non aliquet urna tincidunt. Integer in nisi eget nulla commodo faucibus efficitur quis massa.
+        Praesent felis est, finibus et nisi ac, hendrerit venenatis libero. Donec consectetur faucibus ipsum id gravida.
+        </p>
+      </div>
+    </div>
+  </div>
+  
+  <div class="ahmad-grid-flex">
+    <div class="ahmad-col ahmad-col-image">
+      <img src="~/images/Ahmad3.jpg" alt="Image" class="ahmad-img-fluid">
+    </div>
+    <div class="ahmad-col ahmad-col-text">
+      <div class="ahmad-aligner-item">
+        <h1>- Flutter simple</h1>
+        <p>
+          Donec a eros justo. Fusce egestas tristique ultrices. Nam tempor, augue nec tincidunt molestie, massa nunc
+        varius arcu, at scelerisque elit erat a magna. Donec quis erat at libero ultrices mollis. In hac habitasse
+        platea dictumst. Vivamus vehicula leo dui, at porta nisi facilisis finibus. In euismod augue vitae nisi
+        ultricies, non aliquet urna tincidunt. Integer in nisi eget nulla commodo faucibus efficitur quis massa.
+        Praesent felis est, finibus et nisi ac, hendrerit venenatis libero. Donec consectetur faucibus ipsum id gravida.
+        </p>
+      </div>
+    </div>
+  </div>
+  
+  <div class="ahmad-grid-flex">
+    <div class="ahmad-col ahmad-col-image">
+      <img src="~/images/pana.svg" alt="Image" class="ahmad-img-fluid">
+    </div>
+    <div class="ahmad-col ahmad-col-text ahmad-col-left">
+      <div class="ahmad-aligner-item">
+        <h1>- Flutter simple</h1>
+        <p>
+          Donec a eros justo. Fusce egestas tristique ultrices. Nam tempor, augue nec tincidunt molestie, massa nunc
+        varius arcu, at scelerisque elit erat a magna. Donec quis erat at libero ultrices mollis. In hac habitasse
+        platea dictumst. Vivamus vehicula leo dui, at porta nisi facilisis finibus. In euismod augue vitae nisi
+        ultricies, non aliquet urna tincidunt. Integer in nisi eget nulla commodo faucibus efficitur quis massa.
+        Praesent felis est, finibus et nisi ac, hendrerit venenatis libero. Donec consectetur faucibus ipsum id gravida.
+        </p>
+      </div>
+    </div>
+  </div>
+  
+  <div class="ahmad-grid-flex">
+    <div class="ahmad-col ahmad-col-image">
+      <img src="~/images/pana.svg" alt="Image" class="ahmad-img-fluid">
+    </div>
+    <div class="ahmad-col ahmad-col-text">
+      <div class="ahmad-aligner-item">
+        <h1>- Flutter simple</h1>
+        <p>
+          Donec a eros justo. Fusce egestas tristique ultrices. Nam tempor, augue nec tincidunt molestie, massa nunc
+        varius arcu, at scelerisque elit erat a magna. Donec quis erat at libero ultrices mollis. In hac habitasse
+        platea dictumst. Vivamus vehicula leo dui, at porta nisi facilisis finibus. In euismod augue vitae nisi
+        ultricies, non aliquet urna tincidunt. Integer in nisi eget nulla commodo faucibus efficitur quis massa.
+        Praesent felis est, finibus et nisi ac, hendrerit venenatis libero. Donec consectetur faucibus ipsum id gravida.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+</div>
 
